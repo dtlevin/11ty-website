@@ -1,0 +1,7 @@
+{
+	"url": "https://github.com/dtlevin/11tyAI",
+	"name": "11tyAI",
+	"description": "A simple starter project for Eleventy with Webpack. Contains only what you need to start building your site. No bloat!",
+	"author": "dtlevin",
+	"demo": "https://11tyai.danlevin.xyz/"
+}
